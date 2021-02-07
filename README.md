@@ -1,8 +1,11 @@
-# Introduction
+# HEX-GAME
+This project which consisted in producing different tables of the HEX game according to the customer's need, and producing a server for two players, as well as creating intelligent strategies to play efficiently.
+
+## Introduction
 
 ​	This project represents an implementation in `C` programming language of the Hex game with multiple strategies.	
 
-# Authors
+## Authors
 
 ​	Here is a list of the contributers to this project:
 
@@ -13,7 +16,7 @@
 
 This project has been accomplished under the supervision of  F. Herberteau.
 
-# Usage
+## Usage
 
 ​	In order to use this project, it is necessary to have installed GSL library and set its location in `LD_LIBRARY_PATH`. The project can be run using the following commands: 
 
